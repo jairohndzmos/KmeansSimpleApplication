@@ -19,7 +19,7 @@ This repo aimes to introduce some simple example about skilearn's class k-means 
 > 4.9,3.1,1.5,0.2,"Iris-setosa" where the error is in the fourth feature. The 38th sample: 4.9,3.6,1.4,0.1,"Iris-setosa" where the
 > errors are in the second and third features.
 
-(source: [[https://archive.ics.uci.edu/ml/datasets/iris](https://archive.ics.uci.edu/ml/datasets/iris)]
+(source: [[https://archive.ics.uci.edu/ml/datasets/iris](https://archive.ics.uci.edu/ml/datasets/iris)])
 
 ## Results
 
